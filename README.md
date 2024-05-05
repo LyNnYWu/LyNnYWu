@@ -21,14 +21,13 @@ Accomplished professional with expertise in traffic engineering, law enforcement
 - National Tsing Hua University<br> Master of Master of Business Administration (MBA), Master of Public Policy and Management, 2016 – 2018
 - Central Police University<br> Bachelor of Science (BSc), Traffic Engineering, 2001 - 2004
 
-## 🌱 Currently Exploring
+## 🌱 Certifications
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- TOEIC Listening and Reading 745<br> February 2024, Registration Number: 24265387
+- Microsoft Introduction to Python for Data Science<br> September 2018, Certificate Number: 0D46A5B8-DD4E-4BFE-948A-4D17673CED
+- LINE Official Account Expert<br> March 2024, Number: OA24001566
+- Google Analytics<br> March 2024
+- Tour Escort and Tour Guide Certification<br> May 2016
 
  ## 🏆 Achievements
 
@@ -37,8 +36,7 @@ Accomplished professional with expertise in traffic engineering, law enforcement
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [FB](https://twitter.com/introvertedbot)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
