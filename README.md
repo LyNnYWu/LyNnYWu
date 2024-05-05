@@ -1,22 +1,25 @@
 # Hi, I'm LyNn Y. Wu ! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Project Manager, Special Assistant of CEO at Hongru Education Institute
 
 ![<LyNnYWu>'s Stats](https://github-readme-stats.vercel.app/api?username=LyNnYWu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+Accomplished professional with expertise in traffic engineering, law enforcement, and data analysis. Proficient in a wide range of software tools including Adobe Photoshop, Lightroom, Final Cut Express, WordPress, VBA, HTML, CSS, JavaScript, Python, R, LaTeX, STATA, Tableau, PHP, and SQL. Extensive experience in traffic regulations, accident investigation, criminal investigation, and disaster response.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
+## Experience
+- March 2019 – Present: Project Manager, Special Assistant of CEO at Hongru Education Institute (5 years 1 months)
+- September 2016 – July 2020: Research Assistant at College of Technology Management, National Tsing Hua University (4 years 10 months)
+- October 2005 – January 2019: Division Assistant, Senior Officer, Branch Head at Taoyuan Police Department (13 years 5 months)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,Python)](https://skillicons.dev)
+
+## Education
+- National Tsing Hua University International Intercollegiate Ph.D. Program, 2018 – Present
+- National Tsing Hua University Master of Master of Business Administration (MBA), Master of Public Policy and Management, 2016 – 2018
+- Central Police University Bachelor of Science (BSc), Traffic Engineering, 2001 - 2004
 
 ## 🌱 Currently Exploring
 
