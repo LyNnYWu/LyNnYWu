@@ -31,12 +31,11 @@ Accomplished professional with expertise in traffic engineering, law enforcement
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+- 🌟中華民國刑法不能安全駕駛公共危險罪修正效果實證分析－以桃園市為例」，榮獲「法務部司法官學院第五屆傑出犯罪防治研究論文獎佳作」
 
 ## 📬 Get in Touch
 
-- Connect with me on [FB](https://twitter.com/introvertedbot)
+- Connect with me on []()
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
