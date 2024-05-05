@@ -17,9 +17,9 @@ Accomplished professional with expertise in traffic engineering, law enforcement
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bootstrap,git,jquery,latex,md,mysql,ps,php,r,sklearn,tensorflow,wordpress&perline=8)](https://skillicons.dev)
 
 ## Education
-- National Tsing Hua University International Intercollegiate Ph.D. Program, 2018 – Present
-- National Tsing Hua University Master of Master of Business Administration (MBA), Master of Public Policy and Management, 2016 – 2018
-- Central Police University Bachelor of Science (BSc), Traffic Engineering, 2001 - 2004
+- National Tsing Hua University<br> International Intercollegiate Ph.D. Program, 2018 – Present
+- National Tsing Hua University<br> Master of Master of Business Administration (MBA), Master of Public Policy and Management, 2016 – 2018
+- Central Police University<br> Bachelor of Science (BSc), Traffic Engineering, 2001 - 2004
 
 ## 🌱 Currently Exploring
 
