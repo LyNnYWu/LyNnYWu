@@ -18,16 +18,16 @@ Accomplished professional with expertise in traffic engineering, law enforcement
 
 ## Education
 - National Tsing Hua University<br> *International Intercollegiate Ph.D. Program, 2018 – Present*
-- National Tsing Hua University<br> Master of Master of Business Administration (MBA), Master of Public Policy and Management, 2016 – 2018
-- Central Police University<br> Bachelor of Science (BSc), Traffic Engineering, 2001 - 2004
+- National Tsing Hua University<br> *Master of Master of Business Administration (MBA), Master of Public Policy and Management, 2016 – 2018*
+- Central Police University<br> *Bachelor of Science (BSc), Traffic Engineering, 2001 - 2004*
 
 ## 🌱 Certifications
 
-- TOEIC Listening and Reading 745<br> February 2024, Registration Number: 24265387
-- Microsoft Introduction to Python for Data Science<br> September 2018, Certificate Number: 0D46A5B8-DD4E-4BFE-948A-4D17673CED
-- LINE Official Account Expert<br> March 2024, Number: OA24001566
-- Google Analytics<br> March 2024
-- Tour Escort and Tour Guide Certification<br> May 2016
+- TOEIC Listening and Reading 745<br> *February 2024, Registration Number: 24265387*
+- Microsoft Introduction to Python for Data Science<br> *September 2018, Certificate Number: 0D46A5B8-DD4E-4BFE-948A-4D17673CED*
+- LINE Official Account Expert<br> *March 2024, Number: OA24001566*
+- Google Analytics<br> *March 2024*
+- Tour Escort and Tour Guide Certification<br> *May 2016*
 
  ## 🏆 Achievements
 
