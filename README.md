@@ -14,7 +14,7 @@ Accomplished professional with expertise in traffic engineering, law enforcement
 - October 2005 – January 2019: Division Assistant, Senior Officer, Branch Head at Taoyuan Police Department (13 years 5 months)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,Python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bootstrap,git,jquery,latex,md,mysql,ps,php,r,sklearn,tensorflow,wordpress)](https://skillicons.dev)
 
 ## Education
 - National Tsing Hua University International Intercollegiate Ph.D. Program, 2018 – Present
