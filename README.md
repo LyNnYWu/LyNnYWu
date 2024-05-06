@@ -35,8 +35,8 @@ Accomplished professional with expertise in traffic engineering, law enforcement
 
 ## 📬 Get in Touch
 
-- Connect with me on []()
 - [Mail Me](mailto:yanlinwu70@gmail.com)
+- Connect with me on []()
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
