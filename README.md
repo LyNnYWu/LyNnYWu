@@ -6,7 +6,22 @@ Project Manager, Special Assistant of CEO at Hongru Education Institute
 
 ## 🚀 About Me
 
-Accomplished professional with expertise in traffic engineering, law enforcement, and data analysis. Proficient in a wide range of software tools including Adobe Photoshop, Lightroom, Final Cut Express, WordPress, VBA, HTML, CSS, JavaScript, Python, R, LaTeX, STATA, Tableau, PHP, and SQL. Extensive experience in traffic regulations, accident investigation, criminal investigation, and disaster response.
+-Research Expertise:
+
+Full-time research assistant specializing in econometric research
+Proficient in statistics and various data analysis software
+Capable of independently conducting data surveys, analysis, academic research, and paper writing
+
+-Marketing and Teaching:
+
+Marketing project manager and English teacher skilled in social media utilization and copywriting
+Passionate about computers and internet technology from a young age, self-taught in programming and networking
+Enjoys problem-solving and leveraging technology for practical solutions
+
+-Traffic Engineering and Law Enforcement:
+
+Specialized in traffic engineering, accident investigation, reconstruction, and causation analysis
+Experienced in criminal investigation, well-versed in traffic regulations and criminal law
 
 ## Experience
 - March 2019 – Present: Project Manager, Special Assistant of CEO at Hongru Education Institute (5 years 1 months)
