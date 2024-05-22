@@ -25,7 +25,7 @@ Experienced in criminal investigation, well-versed in traffic regulations and cr
 
 ## Experience
 - May 2024 - Present: Research Assistant, Chang Gung Memorial Hospital (Linkou Branch)
-- March 2019 – April 2024: Project Manager, Special Assistant of CEO at Hongru Education Institute (5 years 1 months)
+- March 2019 – April 2024: Project Manager, Special Assistant of CEO at Hongru Education Institute (5 years 2 months)
 - September 2016 – July 2020: Research Assistant at College of Technology Management, National Tsing Hua University (4 years 10 months)
 - October 2005 – January 2019: Division Assistant, Senior Officer, Branch Head at Taoyuan Police Department (13 years 5 months)
 
