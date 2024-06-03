@@ -9,19 +9,19 @@ Project Manager, Special Assistant of CEO at Hongru Education Institute
 
 - Research Expertise:
 
-Full-time research assistant specializing in econometric research
-Proficient in statistics and various data analysis software
+Full-time research assistant specializing in econometric research<br>
+Proficient in statistics and various data analysis software<br>
 Capable of independently conducting data surveys, analysis, academic research, and paper writing
 
 - Marketing and Teaching:
 
-Marketing project manager and English teacher skilled in social media utilization and copywriting
-Passionate about computers and internet technology from a young age, self-taught in programming and networking
+Marketing project manager and English teacher skilled in social media utilization and copywriting<br>
+Passionate about computers and internet technology from a young age, self-taught in programming and networking<br>
 Enjoys problem-solving and leveraging technology for practical solutions
 
 - Traffic Engineering and Law Enforcement:
 
-Specialized in traffic engineering, accident investigation, reconstruction, and causation analysis
+Specialized in traffic engineering, accident investigation, reconstruction, and causation analysis<br>
 Experienced in criminal investigation, well-versed in traffic regulations and criminal law
 
 ## Experience
