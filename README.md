@@ -53,7 +53,7 @@ Experienced in criminal investigation, well-versed in traffic regulations and cr
 ## 📬 Get in Touch
 
 - [Mail Me](mailto:yanlinwu70@gmail.com)
-- Connect with me on []()
+- Welcome to my [BLOG](https://lynnywu.github.io/blog/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
