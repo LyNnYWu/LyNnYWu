@@ -1,4 +1,4 @@
-# Hi, I'm LyNn Y. Wu ! 👋
+# Hi, I'm LyNn Y. Wu ! 👋 [BLOG](https://lynnywu.github.io/blog/)
 
 Research Assistant at Chang Gung Memorial Hospital (Linkou Branch)<br>
 Project Manager, Special Assistant of CEO at Hongru Education Institute
