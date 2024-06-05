@@ -2,8 +2,8 @@
 
 ## 👤 Title
 
-Research Assistant at Chang Gung Memorial Hospital (Linkou Branch)<br>
-Project Manager, Special Assistant of CEO at Hongru Education Institute
+- Research Assistant at Chang Gung Memorial Hospital (Linkou Branch)<br>
+- Project Manager, Special Assistant of CEO at Hongru Education Institute
 
 ![<LyNnYWu>'s Stats](https://github-readme-stats.vercel.app/api?username=LyNnYWu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
