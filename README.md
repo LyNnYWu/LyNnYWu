@@ -50,7 +50,7 @@ Experienced in criminal investigation, well-versed in traffic regulations and cr
 
  ## 🏆 Achievements
 
-- 🌟「中華民國刑法不能安全駕駛公共危險罪修正效果實證分析－以桃園市為例」，榮獲「法務部司法官學院第五屆傑出犯罪防治研究論文獎佳作」
+- 🌟「中華民國刑法不能安全駕駛公共危險罪修正效果實證分析－以桃園市為例」，榮獲「[法務部司法官學院第五屆傑出犯罪防治研究論文獎佳作](https://www.cprc.moj.gov.tw/1563/1628/6438/post)」
 
 ## 📬 Get in Touch
 
