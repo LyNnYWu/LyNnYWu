@@ -41,8 +41,8 @@ Experienced in criminal investigation, well-versed in traffic regulations and cr
 - Central Police University<br> *Bachelor of Science (BSc), Traffic Engineering, 2001 - 2004*
 
 ## 🌱 Certifications
-- Class-1 Manager of Occupational Safety and Health Affairs 營造業甲級職業安全衛生業務主管
-- TOEIC Listening and Reading 815<br> *Auguest 2024, Registration Number: 24179289*
+- Class-1 Manager of Occupational Safety and Health Affairs<br> 營造業甲級職業安全衛生業務主管
+- TOEIC Listening and Reading 815 (L: 420, R:395)<br> *Auguest 2024, Registration Number: 24179289*
 - Microsoft Introduction to Python for Data Science<br> *September 2018, Certificate Number: 0D46A5B8-DD4E-4BFE-948A-4D17673CED*
 - LINE Official Account Expert<br> *March 2024, Number: OA24001566*
 - Google Analytics<br> *March 2024*
