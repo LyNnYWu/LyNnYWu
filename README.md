@@ -1,4 +1,4 @@
-# Hi, I'm LyNn Y. Wu ! 👋 [BLOG](https://lynnywu.github.io/blog/)
+# Hi, I'm Lyndon Wu ! 👋 [BLOG](https://lynnywu.github.io/blog/)
 
 ## 👤 Title
 
