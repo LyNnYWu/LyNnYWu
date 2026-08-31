@@ -58,4 +58,4 @@ Lyndon 明示最近職涯順序：
 - 移除目前回傳 503 的 GitHub Stats 外部圖片；原本失效的司法官學院獎項網址已換成官方獲獎名單 PDF。
 - GitHub Markdown API 渲染成功；履歷公開連結均回 200；敏感字串掃描未發現證號或身分識別碼。
 - 2026-09-01 GitHub API 與公開 Profile HTML 均已讀回 `Current Roles`、`ENVRIOLINK CORPORATION`、`Fire Protection Manager` 與 `Selected Professional Training`。
-- 2026-09-01 新增防制洗錢與打擊資恐專業人員測驗合格證明，並將 Profile 所有含日期區塊統一改為最新在前；公開讀回待本輪發布後完成。
+- 2026-09-01 新增防制洗錢與打擊資恐專業人員測驗合格證明，並將 Profile 所有含日期區塊統一改為最新在前；GitHub API 與公開 Profile HTML 已讀回，分區排序及公開去敏均通過。
