@@ -61,20 +61,21 @@ I am a cross-disciplinary project manager, educator, researcher, and technology 
 ## 🌱 Certifications and Examinations
 
 - Fire Protection Manager Training Certificate, China Productivity Center<br> *Issued November 2025; valid through November 2028*
-- Class-1 Manager of Occupational Safety and Health Affairs<br> 營造業甲級職業安全衛生業務主管
-- Civil Service Special Examination for Police Personnel, Third Level - Traffic Police<br> *November 2005*
-- Mandarin Tour Guide and Tour Escort Examination Certificates<br> *April 2016*
+- Professional Exam for Anti-Money Laundering and Countering Terrorism Financing Specialist, Securities and Futures Institute<br> *Issued December 2024; valid through November 2027*
 - TOEIC Listening and Reading 815 (L: 420, R: 395)<br> *August 2024*
 - Google Analytics: Fundamentals and Advanced Concepts<br> *April-May 2024; Fundamentals certificate valid through April 2027*
-- Google Fundamentals of Digital Marketing<br> *August 2018*
 - LINE Official Account Expert<br> *March 2024*
 - Microsoft Introduction to Python for Data Science<br> *September 2018*
+- Google Fundamentals of Digital Marketing<br> *August 2018*
+- Mandarin Tour Guide and Tour Escort Examination Certificates<br> *April 2016*
+- Civil Service Special Examination for Police Personnel, Third Level - Traffic Police<br> *November 2005*
+- Class-1 Manager of Occupational Safety and Health Affairs<br> 營造業甲級職業安全衛生業務主管
 
 ## 📚 Selected Professional Training
 
+- Python Data Analysis, Visualization, Investment Analysis, and Chatbot Training<br> *2020*
 - Survey Research Data Processing and Error Checking Workshop, Academia Sinica<br> *March 2019, 7 hours*
 - Introduction to Python and Data Science<br> *April 2018, 27 hours with project assessment*
-- Python Data Analysis, Visualization, Investment Analysis, and Chatbot Training<br> *2020*
 - Traffic Police Leadership, Traffic Regulations Instructor, Motorcycle Safety, and Enforcement Equipment Training
 
 ## 🏆 Achievements
