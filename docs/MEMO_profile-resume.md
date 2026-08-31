@@ -47,3 +47,10 @@ Lyndon 明示最近職涯順序：
 
 - README 不公開證書字號、身分證字號、QR code 或驗證連結。
 - 正式證照／考試及格與短期研習分區；Profile 只列具有職涯辨識度的項目。
+
+## 發布與驗證
+
+- `README.md` 已更新現職、完整職涯時間軸、五類專業能力、正式證照／考試及格與專業訓練。
+- 移除目前回傳 503 的 GitHub Stats 外部圖片；原本失效的司法官學院獎項網址已換成官方獲獎名單 PDF。
+- GitHub Markdown API 渲染成功；履歷公開連結均回 200；敏感字串掃描未發現證號或身分識別碼。
+- 2026-09-01 GitHub API 與公開 Profile HTML 均已讀回 `Current Roles`、`ENVRIOLINK CORPORATION`、`Fire Protection Manager` 與 `Selected Professional Training`。
